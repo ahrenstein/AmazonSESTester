@@ -52,7 +52,7 @@ namespace Amazon_SES_Tester
         private void frmMain_Load(object sender, EventArgs e)
         {
             // Populate txtServer with list of SES servers
-            txtServer.Items.Add("email-smtp-us-east-1.amazonaws.com");
+            txtServer.Items.Add("email-smtp.us-east-1.amazonaws.com");
             txtServer.Items.Add("email-smtp.us-west-2.amazonaws.com");
             txtServer.Items.Add("email-smtp.eu-west-1.amazonaws.com");
             txtServer.Text = "email-smtp.us-west-2.amazonaws.com"; // Setting the default option

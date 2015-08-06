@@ -31,7 +31,9 @@ Known Issues
 Bug Fixes & Changes
 ------------
 
-1. v1.0.26677 build 5645
+1. v1.0.17098 build 5696
+  1. Fixed a typo in the us-east-1 domain.
+2. v1.0.26677 build 5645
   1. Initial release
 
 Use Cases

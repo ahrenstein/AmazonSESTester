@@ -69,7 +69,7 @@ namespace Amazon_SES_Tester
             "from a server in order to verify that it sends properly without firewall issues." + System.Environment.NewLine + System.Environment.NewLine +
             "You can learn more about the program that sent this message at: " +
             "https://github.com/ahrenstein/AmazonSESTester" +System.Environment.NewLine + System.Environment.NewLine +
-            "If you were not expecting this message, then the person who sent it is responsible for bothering you." +
+            "If you were not expecting this message, then the person who sent it is responsible for bothering you. " +
             "You can either talk to them about it or file a complaint with Amazon here: https://portal.aws.amazon.com/gp/aws/html-forms-controller/contactus/AWSAbuse";
 
         }
